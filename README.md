@@ -46,6 +46,14 @@ This is a desktop and mobile app. To view it as if you were on your phone, right
 
 ## Preview
 
+### Home Page
+
 ![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/emailwebapp.png)
+
+### Composer
+
+![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/composer.png)
+
+
 
 
