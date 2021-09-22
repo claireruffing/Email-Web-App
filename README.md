@@ -50,10 +50,18 @@ This is a desktop and mobile app. To view it as if you were on your phone, right
 
 ![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/emailwebapp.png)
 
+
 ### Composer
 
 ![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/composer.png)
 
 
+### Mailbox Selector
 
+![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/mailboxselector.png)
+
+
+### Mail Viewer
+
+![alt text](https://github.com/claireruffing/Email-Web-App/blob/main/photos/mailviewer.png)
 
