@@ -1,5 +1,21 @@
 # Email-Web-App
 
+To write an Email System as a Single Page Full Stack Web Application using React, Node.js, Express, PostgreSQL, and Material-UI.
+
+Note: This web app is highly functional in a mobile view.
+
+More information about this project at https://www.claireruffingportfolio.com/post/email-web-application 
+
+## Key Technologies
+
+Frontend: React and Material-UI
+
+Server: Node.js and Express
+
+Storage Tier: PostgreSQL database
+
+## Installation Requirements
+
 To install node packages:
 
   $ npm install
@@ -27,3 +43,7 @@ To reset Docker (if you run into problems with database)
   $ docker rm $(docker ps -aq)
   
 This is a desktop and mobile app. To view it as if you were on your phone, right click the page, click Inspect, and click the mobile view.
+
+## Preview
+
+
